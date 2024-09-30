@@ -10,7 +10,7 @@ body{
     box-sizing: border-box;
     width: 100%;
     height: auto;
-    /* border: 1px solid red; */
+    /*   */
 }
 .navbar{
     width: 80%;
@@ -138,6 +138,29 @@ li a{
     color: white;
     text-align: center;
 }
+.para2{
+    
+    font-family: Satoshi;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 64.8px;
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+
+}
+#s5{
+    background: linear-gradient(94.68deg, #FF0276 2.51%, #7209B7 86.36%);
+
+    
+}
+.para4{
+    width: 60%;
+    height: 250px;
+    margin-left: 400px;
+}
+
+
 #s2{
     color: blue;
 }
